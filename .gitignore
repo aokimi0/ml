@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyc
+*.ipynb_checkpoints
+
+# Virtual env
+.venv/
+
+# IDE and Editor files
+.vscode/
+.idea/
+.cursorrules
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Environment and config
+.env
+.env.local
+.env.*.local
+
+# Build and distribution
+dist/
+build/
+*.egg-info/
+
+# Documentation and markdown
+*.md.html
+
+# OS generated files
+*.log
+*.pid
+*.seed
+
+# Data & logs
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Reports
+reports/*.json
+reports/figures/*
+!reports/figures/.gitkeep
+reports/fonts/*
+!reports/fonts/.gitkeep
+
+# Poetry
+poetry.lock
+
+
