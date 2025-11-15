@@ -56,4 +56,6 @@ reports/fonts/*
 # Poetry
 poetry.lock
 
+archive/
+
 
